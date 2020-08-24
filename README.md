@@ -17,3 +17,9 @@
  * Try to sort the seats Theatre in both random and reverse order
  * find out the max and min number of seats
  */
+
+
+	/**
+	 * 
+	 * @param args
+	 */
